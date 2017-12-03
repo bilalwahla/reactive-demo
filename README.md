@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bilalwahla/reactive-demo.svg?branch=master)](https://travis-ci.org/bilalwahla/reactive-demo)
+
 # Building a Reactive Microservice
 
 
